@@ -2,7 +2,10 @@
 
 
 ## Hi there 👋
-![GitHub Streak](https://streak-stats.demolab.com/?user=XBinhs17&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=XBinhs17&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
 <!--
 **XBinhs17/XBinhs17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
